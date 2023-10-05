@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+  }
+   
+  h2 {
+    color: #00a2c6;
+  }
+   
+  h3 {
+    color: #00a2c6;
+  }
+   
+  .fancy {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+    color: black;
+  }
+
+  #sma {
+    color:brown;
+    text-shadow: 6px 4px 2px SlateBlue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+  }
+
+  /* div > p {
+    background-color: aqua;
+  } */
+
+  a:hover {
+    color: crimson;
+  }
+  a:link{
+    color: cadetblue;
+  }
+
+  footer {
+    padding: 20px;
+    color: white;
+    background-color: #00a2c6;
+  }

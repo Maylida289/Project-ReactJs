@@ -1,0 +1,37 @@
+Rangkuman
+
+1. style yang dimasukan ke dalam class pada html harus dibuatkan CSS terpisah terlbih dahulu
+jadi, kalo mau dipakein class, class tersebut jadi selector di CSS nya
+
+2. kalau mau membedakan style pada class CSS maka bikin lagi sesuai selector nya.
+
+3. Untuk penggunaan Div menggunakan Id class maka pada halaman CSS nya yang sebagai Selector nya diberikan tanda pagar.
+
+4. untuk mengubah bahasa bisa diedit di selector dengan perintah <p lang="en-us">
+
+5. jika ingin mengelompokan suatu text bisa menggunakan Div dan jika ingin dibedakan bisa diwakilkan oleh selector.
+
+
+a:link { >> rule untuk mewarnai link awal
+   color: red;
+}
+a:visited { >> rule yang digunakan ketika link sudah dikunjungi
+   color: green;
+}
+a:hover { >> rule yang akan berubah warna jika diarahkan oleh kursor
+   color: pink;
+}
+a:active { >> rule yang digunakan ketika sudah ditekan
+   color:orange;
+}
+
+jenis formating text
+<p>
+    <span class="normal">normal</span> | <span class="bold">bold</span> |
+    <span class="bolder">bolder</span> | <span class="lighter">lighter</span> |
+    <span class="fw100">fw100</span> | <span class="fw200">fw200</span> |
+    <span class="fw300">fw300</span> | <span class="fw400">fw400</span> |
+    <span class="fw500">fw500</span> | <span class="fw600">fw600</span> |
+    <span class="fw700">fw700</span> | <span class="fw800">fw800</span> |
+    <span class="fw900">fw900</span>
+  </p>
