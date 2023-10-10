@@ -35,3 +35,10 @@ jenis formating text
     <span class="fw700">fw700</span> | <span class="fw800">fw800</span> |
     <span class="fw900">fw900</span>
   </p>
+  
+
+6. jika kita ingin memodifikasi elemen contohnya p dengan tampilan masing-masing berbeda maka 
+tambahkan class dan class tersebut dijadikan selector dengan tambahan titik.
+
+7. jika ingin mengubah tampilan baris yang berbeda pada elemen p maka, menggunakan relative 
+dengan penamaan class sebenernya bisa juga dengan penamana lain. 
